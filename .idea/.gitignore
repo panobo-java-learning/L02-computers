@@ -1,0 +1,6 @@
+# generated files during compilation
+out/
+
+# Default ignored files
+/shelf/
+/workspace.xml
